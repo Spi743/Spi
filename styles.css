@@ -1,0 +1,6 @@
+p {
+  max-width: 100ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: wrap;
+}
