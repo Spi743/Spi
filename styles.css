@@ -1,9 +1,19 @@
 p {
   max-width: 100ch;
+margin-top: 1em;
+  margin-bottom: 1em;
+margin-left: 1em;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: wrap;
-}
-p {
-  background-image: url('test.jpg');
+background: #33353A;
+border-left: 6px solid;
+border-right: 6px solid;
+border-top: 6px solid;
+border-bottom: 6px solid;
+border-color: #C5630C;
+border-radius: 8px;
+margin: 10px 5px;
+  background-origin: border-box;
+  background-clip: border-area;
 }
