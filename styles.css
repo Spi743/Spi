@@ -1,4 +1,5 @@
 p {
+background: #656565;
 max-width: 100ch;
 margin-top: 1em;
 margin-bottom: 1em;
@@ -15,6 +16,4 @@ background: #33353A;
 border-color: #C5630C;
 border-radius: 8px;
 margin: 10px 5px;
-background-origin: border-box;
-background-clip: border-area;
 }
