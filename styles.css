@@ -4,3 +4,6 @@ p {
   text-overflow: ellipsis;
   white-space: wrap;
 }
+p {
+  background-image: url('test.jpg');
+}
